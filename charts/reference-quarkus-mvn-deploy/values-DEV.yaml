@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: myimage:sha3
+  tag: myimage:sha4
